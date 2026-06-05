@@ -1,8 +1,6 @@
-<p align="right">
-  🇺🇸 English | <a href="./README.pt-br.md">🇧🇷 Português</a>
-</p>
 
-# Hi, I'm Kishimura() 👋
+
+# Hi, I'm Kishimura 👋
 
 I'm currently learning software development with a strong focus on Python, SQL, data analysis, process automation, and real-world business solutions.
 

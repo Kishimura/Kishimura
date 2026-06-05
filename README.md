@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Kishimura 👋
+# Hi, I'm Tiago 👋
 
 I'm currently learning software development with a strong focus on Python, SQL, data analysis, process automation, and real-world business solutions.
 

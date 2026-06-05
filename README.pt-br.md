@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.md">🇺🇸 English</a> | 🇧🇷 Português
+</p>
+
 # Olá, eu sou o Tiago 👋
 
 Atualmente estou estudando desenvolvimento de software com foco em Python, SQL, análise de dados, automação de processos e soluções práticas para problemas reais.

@@ -51,5 +51,4 @@ Technologies and concepts used:
 
 ## Contact
 
-* GitHub: [Kishimura](https://github.com/Kishimura)
 * LinkedIn: [Linkedin](https://www.linkedin.com/in/kishimura)
